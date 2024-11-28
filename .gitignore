@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-model/
-data/
-predict/
+#__pycache__/
+#model/
+#data/
+#predict/
 *.py[cod]
 *$py.class
 *.csv
@@ -112,7 +112,7 @@ test/
 test
 train/
 train
-data/
+#data/
 data
 .vscode
 .idea

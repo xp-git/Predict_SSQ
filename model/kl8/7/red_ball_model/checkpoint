@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\carlyle\\python\\predict_Lottery_ticket-main/model//kl8/7/red_ball_model/red_ball_model.ckpt"
+all_model_checkpoint_paths: "D:\\carlyle\\python\\predict_Lottery_ticket-main/model//kl8/7/red_ball_model/red_ball_model.ckpt"
